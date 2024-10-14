@@ -6,7 +6,7 @@ koleos_4x2 = {
     "is_led_rear_lights_with_dynamic_indicators": False,
     "panoramic_glass_roof": {},
     "exterior_design_elements": [
-        "chrome door handles", 
+        "chrome door handles",
         "18-inch alloy wheels",
         "full LED headlights",
         "body-colored mirrors"
@@ -29,7 +29,7 @@ koleos_4x4_intense = {
         "price": 35000
     },
     "exterior_design_elements": [
-        "chrome door handles", 
+        "chrome door handles",
         "19-inch alloy wheels",
         "full LED headlights",
         "body-colored mirrors",
