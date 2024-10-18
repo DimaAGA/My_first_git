@@ -3,6 +3,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+
 TOKEN_UKR_NET = os.getenv('TOKEN_UKR_NET')
-USER = os.getenv('user')
-SMTP_SERVER = os.getenv('smtp_server')
+USER = os.getenv('USER')
+SMTP_SERVER = os.getenv('SMTP_SERVER')

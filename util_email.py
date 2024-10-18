@@ -52,5 +52,4 @@ def send_email(
     mail.quit()
 
 
-
-    send_email(['dimagapitov@ukr.net'],'mail body', 'mail subject')
+send_email(['dimagapitov@ukr.net'], '<h1>mail body22</h1>', 'mail subject', 'README.md')
